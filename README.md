@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/Maalutty_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nijin-Husnii/Maalutty_v2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HUSNIV2/MAALUTTY-QR)
   
